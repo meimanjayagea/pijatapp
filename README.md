@@ -4,7 +4,7 @@
 # install node module
 ### `npm install` 
         or
-###`yarn install`
+### `yarn install`
 # menjalankan app
 ### `npm start`
 Open Your Browser chroem, mozilla, etc.
