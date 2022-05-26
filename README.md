@@ -1,12 +1,13 @@
 # unduh app dari repositori
-### `git clone https://github.com/meimanjayagea/pijatapp.git`
+git clone https://github.com/meimanjayagea/pijatapp.git
 
 # install node module
-### `npm install` 
+npm install
         or
-### `yarn install`
+yarn install
 # menjalankan app
-### `npm start`
-Open Your Browser chroem, mozilla, etc.
-[http://localhost:3000](http://localhost:3000) to view it in your browser.
+npm start
+
+Buka Browser Chrome, Mozilla, etc.
+[http://localhost:3000](http://localhost:3000)
 
