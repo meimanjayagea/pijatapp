@@ -1,11 +1,11 @@
-# unduh app dari repository
+# - unduh app dari repository
     # git clone https://github.com/meimanjayagea/pijatapp.git
 
-# install node module
+# - install node module
     # npm install
 
     # yarn install
-# menjalankan app
+# - menjalankan app
     # npm start
 
     # yarn start
@@ -13,7 +13,7 @@
 Buka Browser Chrome, Mozilla, etc.
 [http://localhost:3000](http://localhost:3000)
 
-# menejemen file
+# - menejemen file
 - public
   - index.html
   - logo.png
